@@ -11,7 +11,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.Button;
 
-
+//Testing if the git is working
 public class MainActivity extends AppCompatActivity {
 
     private Button but_recCap, but_liveFeed, but_grantAcc;
